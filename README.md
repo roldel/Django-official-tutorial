@@ -1,6 +1,6 @@
 ## Django demo project for practice purpose
 
-Developped with Docker :whale:
+Developed with Docker :whale:
 
 ### Elementary implementation, of the official django tutorial project, for django tech skills refresh
 
@@ -17,14 +17,14 @@ This project was an opportunity to review the following features :
 - Use of manage.py shell for test and troubleshooting purposes
 - CLI superuser creation
 - Customization of the admin functionality
-- Templating system including templates DIRS setup, use of templates tags, using variables from views context
+- Templating system, including templates DIRS setup, use of template tags, using variables from views context
 - Django form 
 - Sending data through POST method
 - Use of generic views
 - Test automation using the Django test client
 - Customizing design through static files setup and rendering
 - Improving templates scalability through 'extends' and 'blocks' template tags
-- Customizing admin Detail and Mainpage through admin.py and tempalting system overide
+- Customizing admin Detail and Mainpage through admin.py and templating system override
 
 
 
